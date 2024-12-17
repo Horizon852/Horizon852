@@ -1,4 +1,9 @@
-## Connect with me:
+## 👋 Hello, World! I'm [Your Name]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Backend+Learner;Web+Enthusiast+and+Innovator)](https://git.io/typing-svg)
+
+
+
+## Connect with me
 
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/punwenin/)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](supachaibutsua@gmail.com)
