@@ -14,9 +14,13 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-# 💡 My Design Portfolio:
 
-You can view my designs on [Figma Portfolio]([https://www.figma.com/file/abcd1234/Your-Design](https://www.figma.com/@punwenin)).
+
+## 💡 My Figma Portfolio:
+
+Check out my designs on my [Figma Profile](https://www.figma.com/@punwenin).
+
+
 
 
 ## 😂 Random Dev Meme:
