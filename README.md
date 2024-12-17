@@ -16,9 +16,11 @@
 
 
 
-## 💡 My Figma Portfolio:
+![Figma Icon](https://upload.wikimedia.org/wikipedia/commons/a/a1/Figma-logo.svg)
 
+## 🎨 My Figma Portfolio:
 Check out my designs on my [Figma Profile](https://www.figma.com/@punwenin).
+
 
 
 
